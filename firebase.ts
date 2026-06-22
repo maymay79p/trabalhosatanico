@@ -1,4 +1,3 @@
-import { initializeApp } from "firebase/config"; // ou "firebase/app"
 import { initializeApp as initApp } from "firebase/app";
 
 //
